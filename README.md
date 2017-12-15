@@ -1,4 +1,4 @@
 # misopack1_beta
-first racemap pack
+First racepack map project for the µps japro server on JK:JA
 
 //will update soon
