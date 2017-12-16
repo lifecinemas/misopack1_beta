@@ -27,6 +27,7 @@ Maps in consideration:
 * wub-jundo
 * failrun1
 * r7-inka-ruined
+* pornstar-caveman
 
 Current issues:
 Textures for door are showing as a missing texture in game.
