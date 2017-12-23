@@ -154,14 +154,122 @@ textures/racepack6/purplejello
 	}
 }
 
-textures/racepack6/doorX
+textures/racepack6/cavernish
 {
-    qer_editorimage textures/racepack6/doorX
+    qer_editorimage textures/racepack6/cavernish
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/doorX
+       map textures/racepack6/cavernish
+    }
+}
+
+textures/racepack6/failrun1
+{
+    qer_editorimage textures/racepack6/failrun1
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/failrun1
+    }
+}
+
+textures/racepack6/yegor
+{
+    qer_editorimage textures/racepack6/yegor
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/yegor
+    }
+}
+
+textures/racepack6/jump5
+{
+    qer_editorimage textures/racepack6/jump5
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/jump5
+    }
+}
+
+textures/racepack6/failrun2
+{
+    qer_editorimage textures/racepack6/failrun2
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/failrun2
+    }
+}
+
+textures/racepack6/fritz
+{
+    qer_editorimage textures/racepack6/fritz
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/fritz
+    }
+}
+
+textures/racepack6/howard
+{
+    qer_editorimage textures/racepack6/howard
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/howard
+    }
+}
+
+textures/racepack6/lamba
+{
+    qer_editorimage textures/racepack6/lamba
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/lamba
+    }
+}
+
+textures/racepack6/enchie
+{
+    qer_editorimage textures/racepack6/enchie
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/enchie
+    }
+}
+
+textures/racepack6/r7-24
+{
+    qer_editorimage textures/racepack6/r7-24
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/r7-24
     }
 }
