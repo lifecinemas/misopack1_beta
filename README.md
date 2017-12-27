@@ -14,6 +14,7 @@ This project is public to view. Race courses included so far:
 * r7-24
 * jump5
 * pornstar-lamba
+* c-mountain
 
 
 Maps to be planned on adding in the future:
@@ -24,9 +25,10 @@ Maps to be planned on adding in the future:
 
 Maps in consideration:
 
+* flexz-strafe
 * marvin-treppenlauf
-* df_waterfall
-* df_zensn
+* rdk-waterfall
+* inder-zensn
 * wub-jundo
 * r7-inka-ruined
 * pornstar-caveman
@@ -34,4 +36,4 @@ Maps in consideration:
 Current issues:
 Too many light entities, map will not compile outside of -meta
 
-LAST UPDATED: December 22nd 2017 9:57PM
+LAST UPDATED: December 26th 2017 11:11PM
