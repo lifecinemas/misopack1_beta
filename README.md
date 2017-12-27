@@ -33,7 +33,5 @@ Maps in consideration:
 * r7-inka-ruined
 * pornstar-caveman
 
-Current issues:
-Too many light entities, map will not compile outside of -meta
 
 LAST UPDATED: December 26th 2017 11:11PM
