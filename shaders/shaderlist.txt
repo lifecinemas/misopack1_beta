@@ -81,3 +81,8 @@ metal2
 waterfall-et
 c-mountain
 cel
+metal
+metal2
+inder14
+terrain_soc
+liquid
