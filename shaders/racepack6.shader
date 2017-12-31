@@ -297,3 +297,27 @@ textures/racepack6/freerun
        map textures/racepack6/freerun
     }
 }
+
+textures/racepack6/waterfall
+{
+    qer_editorimage textures/racepack6/waterfall
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/waterfall
+    }
+}
+
+textures/racepack6/pgb2
+{
+    qer_editorimage textures/racepack6/pgb2
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/pgb2
+    }
+}
