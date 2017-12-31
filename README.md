@@ -2,17 +2,16 @@
 
 Miso's first racepack map project for the µps japro server on JK:JA
 
+
 CURRENT ISSUE(S):
-Removed pornstar-caveman and rdk-waterfall due to compiling issues.
-safe_malloc compile issue as well - too many light entities
+* ctf_imperial is pretty buggy at the moment. At certain heights/levels and certain angles, the textures disappear.
+* The map cannot be compiled without -lomem and -notjunc variables.
 
 LATEST CHANGES:
-* removed rdk-waterfall and pornstar-caveman
-* added zzz-freerun
-* resized door textures
+* Changed the main spawn room entirely from the naboo hangar to ctf_imperial, for players who wish to CTF on the server. The main spawn room is also a course from flag to flag.
+* Added rdk-waterfall and j4n_pgb2
 
-This project is public to view. Race courses included so far:
-
+Current courses implemented:
 * cavernish-noob
 * killua-enchie
 * helmut-fritz
@@ -25,23 +24,21 @@ This project is public to view. Race courses included so far:
 * pornstar-lamba
 * c-mountain
 * freerun
+* rdk-waterfall
+* pgb2
+* ctf_imperial
+
 
 
 Maps to be planned on adding in the future:
-
-* rdk-waterfall
 * inder-zensn
 * df_egypt6
-* df_pgb2
 
 Maps in consideration:
 
 * pornstar-caveman
 * flexz-strafe
-* marvin-treppenlauf
-* wub-jundo
-* r7-inka-ruined
 * tatmt-long1
 
 
-LAST UPDATED: December 30th 2017 10:46PM
+LAST UPDATED: December 31st 2017 2:26AM
