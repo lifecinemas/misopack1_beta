@@ -31,8 +31,10 @@ Current courses implemented:
 
 
 Maps to be planned on adding in the future:
+* jump3
 * inder-zensn
 * df_egypt6
+* df_short1
 
 Maps in consideration:
 
