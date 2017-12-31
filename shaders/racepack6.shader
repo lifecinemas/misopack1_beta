@@ -273,3 +273,27 @@ textures/racepack6/r7-24
        map textures/racepack6/r7-24
     }
 }
+
+textures/racepack6/c-mountain
+{
+    qer_editorimage textures/racepack6/c-mountain
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/c-mountain
+    }
+}
+
+textures/racepack6/freerun
+{
+    qer_editorimage textures/racepack6/freerun
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/freerun
+    }
+}
