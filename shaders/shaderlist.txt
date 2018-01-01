@@ -86,3 +86,8 @@ metal2
 inder14
 terrain_soc
 liquid
+inder14
+inder20k
+plants_soc
+sockter
+terrain_soc

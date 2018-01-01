@@ -321,3 +321,51 @@ textures/racepack6/pgb2
        map textures/racepack6/pgb2
     }
 }
+
+textures/racepack6/zensn
+{
+    qer_editorimage textures/racepack6/zensn
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/zensn
+    }
+}
+
+textures/racepack6/short1
+{
+    qer_editorimage textures/racepack6/short1
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/short1
+    }
+}
+
+textures/racepack6/jump3
+{
+    qer_editorimage textures/racepack6/jump3
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/jump3
+    }
+}
+
+textures/racepack6/tatmt-long1
+{
+    qer_editorimage textures/racepack6/tatmt-long1
+    nopicmip
+    {
+        map $lightmap
+    }
+    {
+       map textures/racepack6/tatmt-long1
+    }
+}
