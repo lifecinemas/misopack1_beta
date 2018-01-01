@@ -346,15 +346,15 @@ textures/racepack6/short1
     }
 }
 
-textures/racepack6/jump3
+textures/racepack6/jump4
 {
-    qer_editorimage textures/racepack6/jump3
+    qer_editorimage textures/racepack6/jump4
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/jump3
+       map textures/racepack6/jump4
     }
 }
 
