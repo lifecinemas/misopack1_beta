@@ -4,6 +4,7 @@ Miso's first racepack map project for the µps japro server on JK:JA
 
 
 CURRENT ISSUE(S):
+* `cavernish` course is pretty dark; more particuarly toward the end. I increased the intensity on the light entities on the course, so I'm not sure how it will look. Will have to keep an eye on this.
 * The new doors are not as bright as the other ones for some weird reason. They are also super tiny now.
 * The automatic sliding doors on ctf_imperial look pretty ugly, and they also make no noise as well.
 
@@ -45,4 +46,4 @@ Maps in consideration:
 * flexz-strafe
 
 
-LAST UPDATED: January 2nd 2018 12:39AM
+LAST UPDATED: January 2nd 2018 12:50AM
