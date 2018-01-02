@@ -358,14 +358,14 @@ textures/racepack6/jump4
     }
 }
 
-textures/racepack6/tatmt-long1
+textures/racepack6/egypt6
 {
-    qer_editorimage textures/racepack6/tatmt-long1
+    qer_editorimage textures/racepack6/egypt6
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/tatmt-long1
+       map textures/racepack6/egypt6
     }
 }
