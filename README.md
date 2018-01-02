@@ -4,14 +4,12 @@ Miso's first racepack map project for the µps japro server on JK:JA
 
 
 CURRENT ISSUE(S):
-* Skyboxes are mashing together and you can see other maps through the skybox.
-* The new doors are not as bright as the other ones for some weird reason.
+* The new doors are not as bright as the other ones for some weird reason. They are also super tiny now.
+* The automatic sliding doors on ctf_imperial look pretty ugly, and they also make no noise as well.
 
 LATEST CHANGES:
-* Fixed ctf_imperial's buggyness
-* Added short1, zensn, jump3
-* Changed the main spawn room entirely from the naboo hangar to ctf_imperial, for players who wish to CTF on the server. The main spawn room is also a course from flag to flag.
-* Added rdk-waterfall and j4n_pgb2
+* Added 'egypt6' course
+* Added teleport buttons to return back to main
 
 Current courses implemented:
 * cavernish-noob
@@ -32,17 +30,19 @@ Current courses implemented:
 * jump3
 * inder-zensn
 * shortmapisforinder (short1)
+* egypt6
 
 
 
 Maps to be planned on adding in the future:
-* df_egypt6
-* tatmt-long1
+
+---
 
 Maps in consideration:
 
+* tatmt-long1
 * pornstar-caveman
 * flexz-strafe
 
 
-LAST UPDATED: December 31st 2017 11:57PM
+LAST UPDATED: January 2nd 2018 12:39AM
