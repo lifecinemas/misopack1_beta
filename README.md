@@ -9,7 +9,7 @@ CURRENT ISSUE(S):
 * The automatic sliding doors on ctf_imperial look pretty ugly, and they also make no noise as well.
 
 LATEST CHANGES:
-* Added 'egypt6' course
+* Added `egypt6` course
 * Added teleport buttons to return back to main
 
 Current courses implemented:
