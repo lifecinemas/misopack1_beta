@@ -7,6 +7,12 @@ CURRENT ISSUE(S):
 * pk3 file is way too large (70MB+). Need to find a way to reduce filesize. Possibly change texture directories / compress them.
 
 LATEST CHANGES:
+1/5/2018:
+* removed checkpoint trigger for `ctf_imperial`...was causing timer to just reset.
+* fixed `short1` spawn tele...player would become stuck in ground.
+* fixed `egypt6` spawn tele...player would spawn outside of map
+* patched some missing textures in `ctf_imperial`
+1/4/2018
 * Fixed the tele doors that were too small
 * Removed the elevators and doors in `ctf_imperial` due to invisible ceiling bugs in racemode
 * Fixed some triggers that would kill you rather than teleport you back to start
@@ -55,4 +61,4 @@ RANDOM NOTES:
 * jump4 is originally called jump3, since there is already a jump3 on RaceArena_Pro, to avoid dftop10 conflictions.
 
 
-LAST UPDATED: January 5th 2018 3:42AM
+LAST UPDATED: January 5th 2018 5:02PM
