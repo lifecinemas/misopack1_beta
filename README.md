@@ -4,13 +4,19 @@ Miso's first racepack map project for the µps japro server on JK:JA
 
 
 CURRENT ISSUE(S):
-* `cavernish` course is pretty dark; more particuarly toward the end. I increased the intensity on the light entities on the course, so I'm not sure how it will look. Will have to keep an eye on this.
-* The new doors are not as bright as the other ones for some weird reason. They are also super tiny now.
-* The automatic sliding doors on ctf_imperial look pretty ugly, and they also make no noise as well.
+* pk3 file is way too large (70MB+). Need to find a way to reduce filesize. Possibly change texture directories / compress them.
 
 LATEST CHANGES:
-* Added `egypt6` course
-* Added teleport buttons to return back to main
+* Fixed the tele doors that were too small
+* Removed the elevators and doors in `ctf_imperial` due to invisible ceiling bugs in racemode
+* Fixed some triggers that would kill you rather than teleport you back to start
+* Fixed waterfalls in `zensn` that were going upward rather than down
+* Added cage to start of `failrun1`
+* Fixes the purple jello in all courses to make look smooth
+* Teleport buttons in courses look fluid
+* Added music
+* Added levelshot
+
 
 Current courses implemented:
 * cavernish-noob
@@ -21,6 +27,7 @@ Current courses implemented:
 * failrun1
 * failrun2
 * r7-24
+* jump4
 * jump5
 * pornstar-lamba
 * c-mountain
@@ -28,7 +35,6 @@ Current courses implemented:
 * rdk-waterfall
 * pgb2
 * ctf_imperial
-* jump3
 * inder-zensn
 * shortmapisforinder (short1)
 * egypt6
@@ -45,5 +51,8 @@ Maps in consideration:
 * pornstar-caveman
 * flexz-strafe
 
+RANDOM NOTES:
+* jump4 is originally called jump3, since there is already a jump3 on RaceArena_Pro, to avoid dftop10 conflictions.
 
-LAST UPDATED: January 2nd 2018 12:50AM
+
+LAST UPDATED: January 5th 2018 3:42AM
