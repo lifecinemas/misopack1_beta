@@ -4,12 +4,12 @@ Miso's first racepack map project for the µps japro server on JK:JA
 
 
 CURRENT ISSUE(S):
-* `cuddles-9` course is missing a couple textures, and not sure why (karameleiscreme / schoko, and eiswaffel). It may be a shader issue.
 * The tele doors (zensn, short1, egypt6, cuddles-9) appear to be darker than the rest of the tele doors.
 * pk3 file is way too large (70MB+). Need to find a way to reduce filesize. Possibly change texture directories / compress them.
 
 LATEST CHANGES:
 * `1/6/2018:`
+* fixed missing textures in `cuddles-9`. One had to be switched from .tga to .jpg in the shader file, and the other had to be resized to 256x256.
 * added `cuddles-9` course
 * `1/5/2018:`
 * increased light intensity toward the end of `r7-24`.
