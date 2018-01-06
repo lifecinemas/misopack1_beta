@@ -91,3 +91,5 @@ inder20k
 plants_soc
 sockter
 terrain_soc
+cuddles-mappak01
+cuddles-mappak02
