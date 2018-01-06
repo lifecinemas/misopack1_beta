@@ -16,7 +16,7 @@ textures/cuddles_liquid/schoko
     tesssize 128
 	deformVertexes wave 100 sin 5 5 0 0.4
 	qer_trans .5
-	qer_editorimage textures/cuddles_materials/karameleiscreme.tga
+	qer_editorimage textures/cuddles_materials/karameleiscreme.jpg
 	surfaceparm water
 	surfaceparm trans
 	
@@ -27,21 +27,21 @@ textures/cuddles_liquid/schoko
 	}
 	
 	{
-		map textures/cuddles_materials/karameleiscreme.tga
+		map textures/cuddles_materials/karameleiscreme.jpg
 		blendFunc GL_DST_COLOR GL_SRC_ALPHA
 		rgbGen identity
 		alphaGen lightingSpecular
 	}
     
 	{
-		map textures/base_trim/tinfx.tga
+		map textures/base_trim/tinfx.jpg
         tcgen environment
 		blendFunc GL_ONE GL_ONE
 		rgbGen identity
 	}
        
         {
-		map textures/cuddles_materials/karameleiscreme.tga
+		map textures/cuddles_materials/karameleiscreme.jpg
         blendFunc GL_DST_COLOR GL_ZERO
 		rgbGen identity
 	}       
