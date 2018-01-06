@@ -9,15 +9,15 @@ CURRENT ISSUE(S):
 * pk3 file is way too large (70MB+). Need to find a way to reduce filesize. Possibly change texture directories / compress them.
 
 LATEST CHANGES:
-* 1/6/2018:
+* `1/6/2018:`
 * added `cuddles-9` course
-* 1/5/2018:
+* `1/5/2018:`
 * increased light intensity toward the end of `r7-24`.
 * removed checkpoint trigger for `ctf_imperial`...was causing timer to just reset.
 * fixed `short1` spawn tele...player would become stuck in ground.
 * fixed `egypt6` spawn tele...player would spawn outside of map
 * patched some missing textures in `ctf_imperial`
-* 1/4/2018
+* `1/4/2018`
 * Fixed the tele doors that were too small
 * Removed the elevators and doors in `ctf_imperial` due to invisible ceiling bugs in racemode
 * Fixed some triggers that would kill you rather than teleport you back to start
