@@ -8,6 +8,7 @@ CURRENT ISSUE(S):
 
 LATEST CHANGES:
 1/5/2018:
+* increased light intensity toward the end of `r7-24`.
 * removed checkpoint trigger for `ctf_imperial`...was causing timer to just reset.
 * fixed `short1` spawn tele...player would become stuck in ground.
 * fixed `egypt6` spawn tele...player would spawn outside of map
