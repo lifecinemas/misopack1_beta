@@ -4,11 +4,14 @@ Miso's first racepack map project for the µps japro server on JK:JA
 
 
 CURRENT ISSUE(S):
+* `strangeland` course has a few broken textures, no clue why. Looks glitchy in one specific area of the map. Tried everything I could think of and still no luck. Ignoring this for now.
+* `cuddles-9` starting platform is too small. Also, remove the invisible walls, except for the back one.
 * The tele doors (zensn, short1, egypt6, cuddles-9) appear to be darker than the rest of the tele doors.
 * pk3 file is way too large (70MB+). Need to find a way to reduce filesize. Possibly change texture directories / compress them.
 
 LATEST CHANGES:
 * `1/6/2018:`
+* Added `strangeland` course
 * fixed missing textures in `cuddles-9`. One had to be switched from .tga to .jpg in the shader file, and the other had to be resized to 256x256.
 * added `cuddles-9` course
 * `1/5/2018:`
@@ -50,6 +53,7 @@ Current courses implemented:
 * shortmapisforinder (short1)
 * egypt6
 * cuddles-9
+* gpl-strangeland-strafe
 
 
 
