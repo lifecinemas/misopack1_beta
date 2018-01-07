@@ -93,3 +93,4 @@ sockter
 terrain_soc
 cuddles-mappak01
 cuddles-mappak02
+eq2
