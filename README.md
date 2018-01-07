@@ -7,7 +7,7 @@ CURRENT ISSUE(S):
 * `strangeland` course has a few broken textures, no clue why. Looks glitchy in one specific area of the map. Tried everything I could think of and still no luck. Ignoring this for now.
 * `cuddles-9` starting platform is too small. Also, remove the invisible walls, except for the back one.
 * The tele doors (zensn, short1, egypt6, cuddles-9) appear to be darker than the rest of the tele doors.
-* pk3 file is way too large (70MB+). Need to find a way to reduce filesize. Possibly change texture directories / compress them.
+* pk3 file is way too large (almost 80MB). Need to find a way to reduce filesize. Possibly change texture directories / compress them.
 
 LATEST CHANGES:
 * `1/6/2018:`
@@ -71,4 +71,4 @@ RANDOM NOTES:
 * jump4 is originally called jump3, since there is already a jump3 on RaceArena_Pro, to avoid dftop10 conflictions.
 
 
-LAST UPDATED: January 5th 2018 5:02PM
+LAST UPDATED: January 6th 2018 11:07PM
