@@ -57,16 +57,6 @@ Current courses implemented:
 
 
 
-Maps to be planned on adding in the future:
-
----
-
-Maps in consideration:
-
-* tatmt-long1
-* pornstar-caveman
-* flexz-strafe
-
 RANDOM NOTES:
 * jump4 is originally called jump3, since there is already a jump3 on RaceArena_Pro, to avoid dftop10 conflictions.
 
