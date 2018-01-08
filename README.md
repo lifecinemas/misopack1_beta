@@ -2,20 +2,16 @@
 
 Miso's first racepack map project for the µps japro server on JK:JA
 
-WARNING: RANT ABOUT CERTAIN MAP (1/7/2018)
-Alright, so after lots of trial and error testing with strangeland, I decided to start it from scratch all over again and carefully do the work on it in case if the broken texture issue was my fault. And it turns out that it is just the way that the map is designed. I guess the problem does not exist on q3 but exists on jk2/jka. I decided to scrap strangeland from rp6 and I replaced it with lovedae. If anyone wants to work on strangeland and try and test it themselves, I included the .map file, and all the other appropriate textures/shaders should be in here as well. Should definitely go through this at some point and remove the unused textures/shaders because I'm sure there are quite a few of them.
-
-
 CURRENT ISSUE(S):
+* `strangeland` exterior needs to be fully caulked...realized I am not good at doing this. Maybe I'm doing it improperly. But a majority of it is finished. Also they need to be switched to structural brushes.
 * Need to go through and remove unused textures / shaders to save space.
-* Seems I am losing some fps; not sure what needs to be changed/what textures should be changed to structural.
-* `lovedae` exterior textures need to be worked on to add more caulking.
-* Some of the tele doors appear to be darker than the rest of the tele doors.
+* added haste to `cuddles-9` but it appears that it is "too fast" for the course, but some people say it is too slow without it. So, can't find that right speed in the middle. (only applies to /move cpm & q3)
+* Some of the tele doors appear to be darker than the rest of the tele doors. But the strange part is that they look better on a vanilla install of jamp rather than my EternalJK, where the source of my mapmaking is.
 * pk3 file is way too large (almost 80MB). Need to find a way to reduce filesize. Possibly change texture directories / compress them.
 
 LATEST CHANGES:
 * `1/7/2018`
-* added `lovedae` course
+* finally added `strangeland` course without it glitching out. Removed all the textures in the area where it was being caused and built it by scratch.
 * `1/6/2018:`
 * fixed missing textures in `cuddles-9`. One had to be switched from .tga to .jpg in the shader file, and the other had to be resized to 256x256.
 * added `cuddles-9` course
@@ -66,4 +62,4 @@ RANDOM NOTES:
 * jump4 is originally called jump3, since there is already a jump3 on RaceArena_Pro, to avoid dftop10 conflictions.
 
 
-LAST UPDATED: January 6th 2018 11:07PM
+LAST UPDATED: January 7th 2018 10:09PM
