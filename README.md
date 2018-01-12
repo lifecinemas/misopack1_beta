@@ -10,6 +10,9 @@ CURRENT ISSUE(S):
 * pk3 file is way too large (almost 80MB). Need to find a way to reduce filesize. Possibly change texture directories / compress them.
 
 LATEST CHANGES:
+* `1/12/2018`
+* deleted 2 random brushes that had missing textures in imperial that i completely overlooked and somehow only noticed now
+* fixed spawns in courses to face wall to avoid teleport abuse
 * `1/7/2018`
 * finally added `strangeland` course without it glitching out. Removed all the textures in the area where it was being caused and built it by scratch.
 * `1/6/2018:`
@@ -54,7 +57,7 @@ Current courses implemented:
 * shortmapisforinder (short1)
 * egypt6
 * cuddles-9
-* lovedae
+* gpl-strangeland-strafe
 
 
 
@@ -62,4 +65,4 @@ RANDOM NOTES:
 * jump4 is originally called jump3, since there is already a jump3 on RaceArena_Pro, to avoid dftop10 conflictions.
 
 
-LAST UPDATED: January 7th 2018 10:09PM
+LAST UPDATED: January 12th 2018 12:04AM
