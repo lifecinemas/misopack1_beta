@@ -12,6 +12,7 @@ CURRENT ISSUE(S):
 LATEST CHANGES:
 * `1/12/2018`
 * deleted 2 random brushes that had missing textures in imperial that i completely overlooked and somehow only noticed now
+* changed music to something much smaller to avoid large filesizes
 * fixed spawns in courses to face wall to avoid teleport abuse
 * `1/7/2018`
 * finally added `strangeland` course without it glitching out. Removed all the textures in the area where it was being caused and built it by scratch.
