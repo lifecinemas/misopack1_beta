@@ -5,9 +5,8 @@ Miso's first racepack map project for the µps japro server on JK:JA
 CURRENT ISSUE(S):
 * `strangeland` exterior needs to be fully caulked...realized I am not good at doing this. Maybe I'm doing it improperly. But a majority of it is finished. Also they need to be switched to structural brushes.
 * Need to go through and remove unused textures / shaders to save space.
-* added haste to `cuddles-9` but it appears that it is "too fast" for the course, but some people say it is too slow without it. So, can't find that right speed in the middle. (only applies to /move cpm & q3)
 * Some of the tele doors appear to be darker than the rest of the tele doors. But the strange part is that they look better on a vanilla install of jamp rather than my EternalJK, where the source of my mapmaking is.
-* pk3 file is way too large (almost 80MB). Need to find a way to reduce filesize. Possibly change texture directories / compress them.
+* pk3 file is way too large (60MB+). Need to find a way to reduce filesize. Possibly change texture directories / compress them.
 
 LATEST CHANGES:
 * `1/12/2018`
