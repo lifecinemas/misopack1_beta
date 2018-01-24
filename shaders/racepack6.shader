@@ -154,218 +154,558 @@ textures/racepack6/purplejello
 	}
 }
 
-textures/racepack6/cavernish
+textures/racepack6/doorCavernish
 {
-    qer_editorimage textures/racepack6/cavernish
+    qer_editorimage textures/racepack6/doorCavernish
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/cavernish
+       map textures/racepack6/doorCavernish
     }
 }
 
-textures/racepack6/failrun1
+textures/racepack6/doorFailrun1
 {
-    qer_editorimage textures/racepack6/failrun1
+    qer_editorimage textures/racepack6/doorFailrun1
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/failrun1
+       map textures/racepack6/doorFailrun1
     }
 }
 
-textures/racepack6/yegor
+textures/racepack6/doorYegor
 {
-    qer_editorimage textures/racepack6/yegor
+    qer_editorimage textures/racepack6/doorYegor
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/yegor
+       map textures/racepack6/doorYegor
     }
 }
 
-textures/racepack6/jump5
+textures/racepack6/doorJump5
 {
-    qer_editorimage textures/racepack6/jump5
+    qer_editorimage textures/racepack6/doorJump5
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/jump5
+       map textures/racepack6/doorJump5
     }
 }
 
-textures/racepack6/failrun2
+textures/racepack6/doorFailrun2
 {
-    qer_editorimage textures/racepack6/failrun2
+    qer_editorimage textures/racepack6/doorFailrun2
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/failrun2
+       map textures/racepack6/doorFailrun2
     }
 }
 
-textures/racepack6/fritz
+textures/racepack6/doorFritz
 {
-    qer_editorimage textures/racepack6/fritz
+    qer_editorimage textures/racepack6/doorFritz
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/fritz
+       map textures/racepack6/doorFritz
     }
 }
 
-textures/racepack6/howard
+textures/racepack6/doorHoward
 {
-    qer_editorimage textures/racepack6/howard
+    qer_editorimage textures/racepack6/doorHoward
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/howard
+       map textures/racepack6/doorHoward
     }
 }
 
-textures/racepack6/lamba
+textures/racepack6/doorLamba
 {
-    qer_editorimage textures/racepack6/lamba
+    qer_editorimage textures/racepack6/doorLamba
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/lamba
+       map textures/racepack6/doorLamba
     }
 }
 
-textures/racepack6/enchie
+textures/racepack6/doorEnchie
 {
-    qer_editorimage textures/racepack6/enchie
+    qer_editorimage textures/racepack6/doorEnchie
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/enchie
+       map textures/racepack6/doorEnchie
     }
 }
 
-textures/racepack6/r7-24
+textures/racepack6/doorR7-24
 {
-    qer_editorimage textures/racepack6/r7-24
+    qer_editorimage textures/racepack6/doorR7-24
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/r7-24
+       map textures/racepack6/doorR7-24
     }
 }
 
-textures/racepack6/c-mountain
+textures/racepack6/doorC-mountain
 {
-    qer_editorimage textures/racepack6/c-mountain
+    qer_editorimage textures/racepack6/doorC-mountain
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/c-mountain
+       map textures/racepack6/doorC-mountain
     }
 }
 
-textures/racepack6/freerun
+textures/racepack6/doorFreerun
 {
-    qer_editorimage textures/racepack6/freerun
+    qer_editorimage textures/racepack6/doorFreerun
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/freerun
+       map textures/racepack6/doorFreerun
     }
 }
 
-textures/racepack6/waterfall
+textures/racepack6/doorWaterfall
 {
-    qer_editorimage textures/racepack6/waterfall
+    qer_editorimage textures/racepack6/doorWaterfall
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/waterfall
+       map textures/racepack6/doorWaterfall
     }
 }
 
-textures/racepack6/pgb2
+textures/racepack6/doorPgb2
 {
-    qer_editorimage textures/racepack6/pgb2
+    qer_editorimage textures/racepack6/doorPgb2
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/pgb2
+       map textures/racepack6/doorPgb2
     }
 }
 
-textures/racepack6/zensn
+textures/racepack6/doorZensn
 {
-    qer_editorimage textures/racepack6/zensn
+    qer_editorimage textures/racepack6/doorZensn
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/zensn
+       map textures/racepack6/doorZensn
     }
 }
 
-textures/racepack6/short1
+textures/racepack6/doorShort1
 {
-    qer_editorimage textures/racepack6/short1
+    qer_editorimage textures/racepack6/doorShort1
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/short1
+       map textures/racepack6/doorShort1
     }
 }
 
-textures/racepack6/jump4
+textures/racepack6/doorJump4
 {
-    qer_editorimage textures/racepack6/jump4
+    qer_editorimage textures/racepack6/doorJump4
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/jump4
+       map textures/racepack6/doorJump4
     }
 }
 
-textures/racepack6/egypt6
+textures/racepack6/doorEgypt6
 {
-    qer_editorimage textures/racepack6/egypt6
+    qer_editorimage textures/racepack6/doorEgypt6
     nopicmip
     {
         map $lightmap
     }
     {
-       map textures/racepack6/egypt6
+       map textures/racepack6/doorEgypt6
     }
+}
+
+textures/racepack6/baslt4_1_4k
+{
+	qer_editorimage textures/racepack6/baslt4_1.tga
+	surfaceparm nomarks
+	q3map_surfacelight 4000
+	//light 1
+
+	// New Fluorescent light
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/racepack6/baslt4_1.tga
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/racepack6/baslt4_1.blend.tga
+		blendfunc GL_ONE GL_ONE
+	}
+}
+
+textures/racepack6/mp_crimimpact
+{
+	qer_editorimage racepack6/criminal-impact_ft.tga
+	surfaceparm noimpact
+	surfaceparm nolightmap
+	q3map_globaltexture
+	q3map_skylight 100 4
+	surfaceparm sky
+	q3map_sun 1 1 1 100 80 60
+	skyparms racepack6/criminal-impact - -
+}
+
+textures/racepack6/mp_orbital
+{
+	qer_editorimage racepack6/orbital-element_ft.tga
+	surfaceparm noimpact
+	surfaceparm nolightmap
+	q3map_globaltexture
+	q3map_skylight 100 4
+	q3map_sun 1 1 1 80 90 50
+	surfaceparm sky
+	skyparms racepack6/orbital-element - -
+}
+
+textures/racepack6/lig_b064-01d
+{
+	qer_editorimage textures/racepack6/lig_b064-01d.tga
+	{
+		map textures/egyptsoc_sfx/lig_b064-01d.tga
+		rgbGen identity
+	}
+	{
+		map $lightmap
+		rgbGen identity
+		blendfunc filter
+	}
+	{
+		map textures/racepack6/lig_b064-01y.blend.tga
+		blendfunc add	
+                rgbgen wave sin .5 .3 0 1
+	}
+}
+
+textures/racepack6/schoko
+{
+    tesssize 128
+	deformVertexes wave 100 sin 5 5 0 0.4
+	qer_trans .5
+	qer_editorimage textures/racepack6/karameleiscreme.tga
+	surfaceparm water
+	surfaceparm trans
+	
+    {
+		rgbGen identity
+		map $lightmap
+        blendFunc GL_ONE GL_ONE
+	}
+	
+	{
+		map textures/racepack6/karameleiscreme.tga
+		blendFunc GL_DST_COLOR GL_SRC_ALPHA
+		rgbGen identity
+		alphaGen lightingSpecular
+	}
+    
+	{
+		map textures/racepack6/tinfx.tga
+        tcgen environment
+		blendFunc GL_ONE GL_ONE
+		rgbGen identity
+	}
+       
+        {
+		map textures/racepack6/karameleiscreme.tga
+        blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}       
+}
+
+textures/racepack6/hintskipacro
+{ 
+	qer_editorimage textures/racepack6/hintskipacro
+	qer_trans 0.5 
+	qer_nocarve 
+	surfaceparm nodraw 
+	surfaceparm nonsolid 
+	surfaceparm skip 
+	surfaceparm detail 
+	surfaceparm trans 
+}
+
+textures/racepack6/c-mountain_sky
+{
+	qer_editorimage textures/skies/sky.tga
+	skyparms textures/racepack6/b 300 -
+	q3map_sunExt 1.00 0.86 0.31 1280 -102 30 2 16  //"red" "green" "blue" "intensity" "degrees" "elevation" "deviance" "samples" 
+	q3map_lightmapFilterRadius 0 8
+	q3map_skyLight 880 3
+	surfaceparm sky
+	surfaceparm noimpact
+	surfaceparm nolightmap
+	surfaceparm nomarks
+	notc  
+}
+
+textures/racepack6/invisilight_shader
+{
+	qer_editorimage	textures/racepack6/invisilight_image
+	qer_trans	0.7
+	surfaceparm nomarks
+	surfaceparm nonsolid
+	surfaceparm nonopaque
+	surfaceparm trans
+	surfaceparm nolightmap
+	q3map_lightRGB 1 1 1
+	q3map_nolightmap
+	q3map_surfacelight 350
+	{
+	map $whiteimage
+	rgbGen const ( 0.000000 0.000000 0.000000 )
+	blendFunc GL_ONE GL_ONE
+	}
+}
+
+textures/racepack6/shadergrass
+
+{
+   q3map_nonplanar
+    q3map_shadeangle 120
+   q3map_material Rock
+    qer_editorimage textures/racepack6/grass25
+	surfaceparm	nodamage
+    {
+       map textures/racepack6/grass25
+    }
+   {
+      
+      map textures/racepack6/landscape_scape1
+            blendFunc GL_DST_COLOR GL_SRC_COLOR
+            detail
+            tcMod scale 0.075 0.075
+   }
+   {
+      map $lightmap
+      blendFunc GL_DST_COLOR GL_ZERO
+   }
+}
+
+textures/racepack6/slabrock1
+{
+	qer_editorimage textures/racepack6/slabrock1
+	surfaceparm	nodamage
+	{
+		map $lightmap
+		rgbGen identityLighting
+	}
+	{
+		map textures/racepack6/slabrock1
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identityLighting
+		tcMod scale .25 .25
+	}
+}
+
+textures/c-mountain/n-wall3
+{
+	qer_editorimage textures/c-mountain/n-wall3
+	surfaceparm	nodamage
+	{
+		map $lightmap
+		rgbGen identityLighting
+	}
+	{
+		map textures/c-mountain/n-wall3
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identityLighting
+	}
+}
+
+textures/c-mountain/stone1
+{
+	qer_editorimage textures/c-mountain/stone1
+	surfaceparm	nodamage
+	{
+		map $lightmap
+		rgbGen identityLighting
+	}
+	{
+		map textures/c-mountain/stone1
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identityLighting
+		tcMod scale .25 .25
+	}
+}
+
+textures/c-mountain/red
+{
+	qer_editorimage textures/c-mountain/red
+	surfaceparm	nodamage
+	{
+		map $lightmap
+		rgbGen identityLighting
+	}
+	{
+		map textures/c-mountain/red
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identityLighting
+	}
+}
+
+textures/racepack6/xlightgreyfog
+{
+	qer_editorimage textures/racepack6/xdensegreyfog.tga
+	surfaceparm	trans
+	surfaceparm	nonsolid
+	surfaceparm	fog
+	surfaceparm	nolightmap
+	qer_nocarve
+	fogparms ( 0.7 0.7 0.7 ) 1400
+}
+
+textures/racepack6/clear_calm1	
+	{
+		qer_editorimage textures/racepack6/pool3d_3e.tga
+		qer_trans .5
+		q3map_globaltexture
+		surfaceparm trans
+		surfaceparm nonsolid
+		surfaceparm water
+	
+		cull disable
+		deformVertexes wave 64 sin .25 .25 0 .5	
+		{ 
+			map textures/racepack6/pool3d_5e.tga
+			blendFunc GL_dst_color GL_one
+			rgbgen identity
+			tcmod scale .5 .5
+			tcmod scroll .025 .01
+		}
+	
+		{ 
+			map textures/racepack6/pool3d_3e.tga
+			blendFunc GL_dst_color GL_one
+			tcmod scale -.5 -.5
+			tcmod scroll .025 .025
+		}
+
+	
+		{
+			map $lightmap
+			blendFunc GL_dst_color GL_zero
+			rgbgen identity		
+		}
+	}
+
+textures/racepack6/flatripplewater_1500
+{
+	qer_editorimage textures/racepack6/pool2.tga
+	q3map_globaltexture
+	q3map_lightsubdivide 32
+	surfaceparm noimpact
+	surfaceparm lava
+	surfaceparm nolightmap
+	q3map_surfacelight 500
+	cull disable
+	
+	deformVertexes wave 100 sin 3 2 .1 0.1
+	
+	{
+		map textures/racepack6/pool2.tga
+		tcMod turb 0 .2 0 .1
+	}
+}
+
+textures/racepack6/eq2lt_trimlight_s_3k
+{
+	surfaceparm nomarks
+	q3map_surfacelight 3000
+	q3map_lightsubdivide 32
+	q3map_lightimage textures/racepack6/eq2_trimlight_01s.blend.tga
+	qer_editorimage textures/racepack6/eq2_trimlight_01s.tga
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/racepack6/eq2_trimlight_01s.tga
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/racepack6/eq2_trimlight_01s.blend.tga
+		blendfunc GL_ONE GL_ONE
+	}
+}
+
+textures/racepack6/eq2lt_baselt03
+{
+	surfaceparm nomarks
+	q3map_surfacelight 3000
+	q3map_lightimage textures/racepack6/eq2_baselt03.blend.tga
+	qer_editorimage textures/racepack6/eq2_baselt03.tga
+	{
+		map $lightmap
+		rgbGen identity
+	}
+	{
+		map textures/racepack6/eq2_baselt03.tga
+		blendFunc GL_DST_COLOR GL_ZERO
+		rgbGen identity
+	}
+	{
+		map textures/racepack6/eq2_baselt03.blend.tga
+		blendfunc GL_ONE GL_ONE
+	}
 }
