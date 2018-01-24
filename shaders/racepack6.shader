@@ -395,26 +395,26 @@ textures/racepack6/baslt4_1_4k
 
 textures/racepack6/mp_crimimpact
 {
-	qer_editorimage racepack6/criminal-impact_ft.tga
+	qer_editorimage textures/racepack6/criminal-impact_ft.tga
 	surfaceparm noimpact
 	surfaceparm nolightmap
 	q3map_globaltexture
 	q3map_skylight 100 4
 	surfaceparm sky
 	q3map_sun 1 1 1 100 80 60
-	skyparms racepack6/criminal-impact - -
+	skyparms textures/racepack6/criminal-impact - -
 }
 
 textures/racepack6/mp_orbital
 {
-	qer_editorimage racepack6/orbital-element_ft.tga
+	qer_editorimage textures/racepack6/orbital-element_ft.tga
 	surfaceparm noimpact
 	surfaceparm nolightmap
 	q3map_globaltexture
 	q3map_skylight 100 4
 	q3map_sun 1 1 1 80 90 50
 	surfaceparm sky
-	skyparms racepack6/orbital-element - -
+	skyparms textures/racepack6/orbital-element - -
 }
 
 textures/racepack6/lig_b064-01d
