@@ -421,7 +421,7 @@ textures/racepack6/lig_b064-01d
 {
 	qer_editorimage textures/racepack6/lig_b064-01d.tga
 	{
-		map textures/egyptsoc_sfx/lig_b064-01d.tga
+		map textures/racepack6/lig_b064-01d.tga
 		rgbGen identity
 	}
 	{
@@ -605,7 +605,7 @@ textures/c-mountain/red
 
 textures/racepack6/xlightgreyfog
 {
-	qer_editorimage textures/racepack6/xdensegreyfog.tga
+	qer_editorimage textures/fogs/fog.tga
 	surfaceparm	trans
 	surfaceparm	nonsolid
 	surfaceparm	fog
@@ -707,5 +707,26 @@ textures/racepack6/eq2lt_baselt03
 	{
 		map textures/racepack6/eq2_baselt03.blend.tga
 		blendfunc GL_ONE GL_ONE
+	}
+}
+
+
+textures/racepack6/waterfall
+{
+	nopicmip
+	qer_editorimage textures/racepack6/waterfall.tga
+	surfaceparm nolightmap
+	surfaceparm trans
+	surfaceparm nonsolid
+	cull none
+	{
+		map textures/racepack6/waterfall.tga
+		blendFunc GL_dst_color GL_one
+		tcMod scroll 0 -1.2
+	}
+	{
+		map textures/racepack6/waterfall.tga
+		blendFunc GL_dst_color GL_one
+		tcMod scroll 0 -0.7
 	}
 }
